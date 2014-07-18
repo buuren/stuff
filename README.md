@@ -1,7 +1,7 @@
 stuff
 =====
 
-just random useful stuff
+just random resources
 
 
 HTML encoder: http://scriptasylum.com/tutorials/encode-decode.html
