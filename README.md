@@ -12,3 +12,4 @@ Python: data analysis (in Russian language) http://playittodeath.ru/%D0%B0%D0%BD
 
 
 Interesting Unix/Linux blog: http://www.karkomaonline.com/
+https://gist.github.com/takeshixx/10107280
