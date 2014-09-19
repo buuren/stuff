@@ -15,3 +15,5 @@ Interesting Unix/Linux blog: http://www.karkomaonline.com/
 https://gist.github.com/takeshixx/10107280
 
 http://regexhero.net/reference/
+
+http://codingbat.com/python
