@@ -17,3 +17,9 @@ https://gist.github.com/takeshixx/10107280
 http://regexhero.net/reference/
 
 http://codingbat.com/python
+
+Good regexes:
+http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149
+
+URL match:
+https://mathiasbynens.be/demo/url-regex
