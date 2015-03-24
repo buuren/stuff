@@ -26,3 +26,6 @@ https://mathiasbynens.be/demo/url-regex
 
 Server:
 http://www.greenhills.co.uk/2013/03/16/supermicro-server-for-virtualisation.html
+
+gui
+http://www.idevelopment.info/data/Unix/Linux/LINUX_AddGNOMEToCentOSMinimalInstall.shtml
