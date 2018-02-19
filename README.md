@@ -34,3 +34,5 @@ http://www.idevelopment.info/data/Unix/Linux/LINUX_AddGNOMEToCentOSMinimalInstal
 http://www.itworld.com/article/2894353/best-practice-unix-style.html
 
 http://dailypackage.fedorabook.com/index.php?/archives/159-System-Recovery-Week-Using-LVM-In-Rescue-Mode.html
+
+https://l0rd.github.io/containerspatterns/#55
